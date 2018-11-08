@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Tortoise and the Hare</string>
+    <string name="button">Button</string>
+    <string name="tortoise">Tortoise</string>
+    <string name="hare">Hare</string>
+    <string name="start">Start</string>
+</resources>
